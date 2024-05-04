@@ -25,4 +25,4 @@ This project is a search engine web application developed using Next.js, a React
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/next-search-engine.git
+   [git clone https://github.com/your-username/next-search-engine.git](https://github.com/sar4th/search-engine.git)
